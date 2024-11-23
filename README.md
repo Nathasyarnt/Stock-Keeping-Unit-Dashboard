@@ -8,17 +8,18 @@ The stock keeping unit dashboard aims to find out which SKU has the top performa
 <a href="https://github.com/Nathasyarnt/Stock-Keeping-Unit-Dashboard/tree/main/Dataset">Dataset</a>
 
 ## Questions (KPIs)
-- Total Movie
-- Total TV Shows
-- Average IMDb Score (Movie)
-- Average IMDb Score (TV Show)
-- Total IMDb Votes (Movie)
-- Total IMDb Votes (TV Show)
-- Age Certification Distribution
-- Top 5 Movies and TV Shows by IMDb Score
-- Runtime Distribution
-- Yearly Release Trend
-- Runtime vs Score Contrast
+- Total Product
+- Total SKU
+- Total Sales Area
+- Total Customer
+- Total Profit per SKU
+- Number of Returns per SKU
+- Most Loyal Merchant
+- SKU YTD
+- SKU YTD Last Year
+- Pareto Diagram
+- P3M vs L3M
+- Sales Forecastinng
 
  ## Process
 - Data Collection : Download data from the link above
