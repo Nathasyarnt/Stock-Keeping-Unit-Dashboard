@@ -19,7 +19,7 @@ The stock keeping unit dashboard aims to find out which SKU has the top performa
 - SKU YTD Last Year
 - Pareto Diagram
 - P3M vs L3M
-- Sales Forecastinng
+- Sales Forecasting
 
  ## Process
 - Data Collection : Download data from the link above
@@ -34,6 +34,8 @@ The stock keeping unit dashboard aims to find out which SKU has the top performa
 ![screenshot](https://github.com/Nathasyarnt/Stock-Keeping-Unit-Dashboard/blob/main/Screenshot%202024-11-23%20212259.png)
 
 ## Final Conclusion
-- Netflix has great potential to further diversify its content, especially for the kids and family segment.
-- TV series provide higher quality than films; investment in quality film production needs to be increased.
-- Producing short-form content is a good strategy, but it is important to ensure a strong variety of stories. 
+- Mr. Dalton is the most loyal customer with a purchase amount of 485
+- The SKU in the form of Mountain bike is the SKU with the best performance
+- Water Bottle is the SKU that contributes more than 80% to sales
+- L3M and P3M have very significant differences
+- The number of sales in the next 2 weeks is quite constant based on the forecast results
